@@ -1,0 +1,15 @@
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\bin\Debug\net6.0\Class20220925.exe
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\bin\Debug\net6.0\Class20220925.deps.json
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\bin\Debug\net6.0\Class20220925.runtimeconfig.json
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\bin\Debug\net6.0\Class20220925.dll
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\bin\Debug\net6.0\Class20220925.pdb
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.csproj.AssemblyReference.cache
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.AssemblyInfoInputs.cache
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.AssemblyInfo.cs
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.csproj.CoreCompileInputs.cache
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.dll
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\refint\Class20220925.dll
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.pdb
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\Class20220925.genruntimeconfig.cache
+C:\Users\klmaaa\Documents\Visual Studio 2022\Class\Class20220925\Class20220925\obj\Debug\net6.0\ref\Class20220925.dll
